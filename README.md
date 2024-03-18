@@ -1,3 +1,4 @@
+<img src='https://firebasestorage.googleapis.com/v0/b/profile-7bfa2.appspot.com/o/Black%20Minimal%20.png?alt=media&token=84311752-1fe5-4cd1-a68e-71c5655b51a3'></img>
 <h1 align="center">Hi 👋, I'm Brian Murigi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b7611hixn7fn2qjwcj7u2g5at8dwm175opp1ht1wsjr2l&ep=v1_gifs_search&rid=200.webp&ct=g"></img>
