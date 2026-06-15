@@ -31,13 +31,6 @@
   <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square" alt="Microservices">
 </blockquote>
 
-<blockquote>
-  <h3>🕹️ Game Palace</h3>
-  <p>A comprehensive gaming ecosystem hub housing specialized tournament management engines, predictive placement logic, and isolated security gateways.</p>
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%26%20Python-blue?style=flat-square" alt="TS Python">
-  <img src="https://img.shields.io/badge/Database-MySQL%20%2F%20Firebase-ffca28?style=flat-square&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/Network-Ephemeral%20Sockets-brightgreen?style=flat-square" alt="Sockets">
-</blockquote>
 
 ---
 
