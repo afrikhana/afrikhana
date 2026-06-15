@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Brian Murigi</h1>
 
 <p align="center">
-  I am a software engineer who deeply adores hard work and the grit it takes to build impactful platforms. For me, the ultimate goal is success but I believe that true failure only comes from standing still. I thrive on making bold moves, taking risks, and executing ideas; even if a move fails, it is a lesson learned and a step forward toward the next breakthrough.
+  I am a software engineer who deeply adores hard work and the grit it takes to build impactful platforms. For me, the ultimate goal is success—but I believe that true failure only comes from standing still. I thrive on making bold moves, taking risks, and executing ideas; even if a move fails, it is a lesson learned and a step forward toward the next breakthrough.
 </p>
 
 <p align="center">
@@ -31,6 +31,44 @@
   <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square" alt="Microservices">
 </blockquote>
 
+<blockquote>
+  <h3>🏫 Elewa Internship Ecosystem</h3>
+  <p>Contributed actively to troubleshooting, building, and fixing solutions across the platform's orchestration workflows, maintaining application stability and frontend performance.</p>
+  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/Database-Firebase-ffca28?style=flat-square&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/Role-Orchestration%20%26%20Fixes-blueviolet?style=flat-square" alt="Role">
+</blockquote>
+
+<blockquote>
+  <h3>🎨 Digital Artist Gallery Platform</h3>
+  <p>A specialized visual storefront web application built explicitly for digital and traditional artists to securely present, organize, and showcase their creative portfolios online.</p>
+  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/Scope-Portfolio%20Application-blue?style=flat-square" alt="Portfolio">
+</blockquote>
+
+<blockquote>
+  <h3>🍽️ Restaurant Task & Transaction Hub</h3>
+  <p>A full-stack point-of-sale restaurant application designed to automate day-to-day restaurant workflows, monitor administrative tasks, log transactions, and process secure live customer payments using an embedded M-Pesa API system.</p>
+  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/Backend-Python%20%2F%20Flask-3776ab?style=flat-square&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Integration-M--Pesa%20API-green?style=flat-square" alt="M-Pesa">
+</blockquote>
+
+<blockquote>
+  <h3>📍 Geolocated Event Management System</h3>
+  <p>An enterprise-grade event-tracking engine where I am developing the core backend services. It implements dynamic geolocation for real-time map event discovery alongside isolated microservices dedicated to secure inside-app ticket purchases.</p>
+  <img src="https://img.shields.io/badge/Service-Backend%20Engineering-3776ab?style=flat-square" alt="Backend">
+  <img src="https://img.shields.io/badge/Feature-Geolocation%20%26%20Maps-brightgreen?style=flat-square" alt="Geolocation">
+  <img src="https://img.shields.io/badge/Architecture-Ticketing%20Microservices-orange?style=flat-square" alt="Microservices">
+</blockquote>
+
+<blockquote>
+  <h3>♟️ Next-Gen Chess Engine </h3>
+  <p>An interactive, modernized custom chess environment currently under active research and development, utilizing a decoupled architecture to manage game loops and move validations.</p>
+  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/Backend-Python%20%2F%20Flask-3776ab?style=flat-square&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Status-R%26D%20Phase-yellow?style=flat-square" alt="R&D">
+</blockquote>
 
 ---
 
