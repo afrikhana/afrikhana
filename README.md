@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Brian Murigi</h1>
 
 <p align="center">
-  I am a software engineer who deeply adores hard work and the grit it takes to build impactful platforms. For me, the ultimate goal is success—but I believe that true failure only comes from standing still. I thrive on making bold moves, taking risks, and executing ideas; even if a move fails, it is a lesson learned and a step forward toward the next breakthrough.
+  I am a software engineer who deeply adores hard work and the grit it takes to build impactful platforms. For me, the ultimate goal is success but I believe that true failure only comes from standing still. I thrive on making bold moves, taking risks, and executing ideas; even if a move fails, it is a lesson learned and a step forward toward the next breakthrough.
 </p>
 
 <p align="center">
@@ -20,18 +20,32 @@
 
 ---
 
-### 🚀 What I'm Up To
-- 🔭 I’m currently working on **AetheriaGames.cloud**
-- 🌱 I’m currently learning **Haskell**
-- 💬 Ask me about **Angular architecture, Python, DevOps & Docker**
-- 📫 How to reach me **brianmurigi64@gmail.com**
+### 💻 Featured Ecosystems & Projects
 
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/brian-murigi-831473283" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-murigi-831473283" height="30" width="40" />
-  </a>
-</p>
+<blockquote>
+  <h3>🛡️ AetheriaGames.cloud (SaaS Platform)</h3>
+  <p>An advanced software-as-a-service application built to orchestrate and automate esports tournament hosting, matchmaking workflows, and live player telemetry.</p>
+  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/Backend-Python%20%2F%20Flask-3776ab?style=flat-square&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Infrastructure-Docker-2496ed?style=flat-square&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square" alt="Microservices">
+</blockquote>
+
+<blockquote>
+  <h3>🕹️ Game Palace</h3>
+  <p>A comprehensive gaming ecosystem hub housing specialized tournament management engines, predictive placement logic, and isolated security gateways.</p>
+  <img src="https://img.shields.io/badge/Stack-TypeScript%20%26%20Python-blue?style=flat-square" alt="TS Python">
+  <img src="https://img.shields.io/badge/Database-MySQL%20%2F%20Firebase-ffca28?style=flat-square&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/Network-Ephemeral%20Sockets-brightgreen?style=flat-square" alt="Sockets">
+</blockquote>
+
+---
+
+### 🚀 Technical Overview
+- 🌱 **Learning:** Deep-diving into strong static typing and functional architecture with **Haskell**.
+- 💬 **Ask me about:** Component-driven **Angular architecture**, reactive state management, high-concurrency backends, and containerized deployment pipelines.
+- 📫 **Reach me:** [brianmurigi64@gmail.com](mailto:brianmurigi64@gmail.com)
+- 🤝 **Connect:** Let's build together on [LinkedIn](https://linkedin.com/in/brian-murigi-831473283).
 
 ---
 
@@ -57,15 +71,17 @@
 
 ---
 
-### 📊 Performance Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrikhana&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="afrikhana GitHub Stats" />
-</p>
+### 📊 Performance Ecosystem & Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afrikhana&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="afrikhana Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrikhana&count_private=true&theme=tokyonight" alt="afrikhana Contribution Streak" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=afrikhana&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afrikhana&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrikhana&count_private=true&theme=tokyonight" alt="Contribution Streak" />
+    </td>
+  </tr>
+</table>
