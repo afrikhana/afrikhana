@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Brian Murigi</h1>
 
 <p align="center">
-  I am a software engineer who deeply adores hard work and the grit it takes to build impactful platforms. For me, the ultimate goal is success—but I believe that true failure only comes from standing still. I thrive on making bold moves, taking risks, and executing ideas; even if a move fails, it is a lesson learned and a step forward toward the next breakthrough.
+  I am a software engineer who deeply adores hard work and the grit it takes to build impactful platforms. For me, the ultimate goal is success but I believe that true failure only comes from standing still. I thrive on making bold moves, taking risks, and executing ideas; even if a move fails, it is a lesson learned and a step forward toward the next breakthrough.
 </p>
 
 <p align="center">
