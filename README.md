@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Brian Murigi</h1>
 
 <p align="center">
-  I am a software engineer who deeply adores hard work and the grit it takes to build impactful platforms. For me, the ultimate goal is  failure because it is a lesson learned and a step forward toward the next breakthrough.
+  I am a full-stack software engineer obsessed with engineering resilient, low-latency platforms and robust distributed systems. I build systems built to scale, embracing complex engineering challenges as essential stepping stones toward the next architectural breakthrough.
 </p>
 
 <p align="center">
@@ -20,84 +20,61 @@
 
 ---
 
-### 💻 Featured Ecosystems & Projects
+### 💻 Featured Ecosystems & Systems Architecture
 
 <blockquote>
-  <h3>🛡️ AetheriaGames.cloud (SaaS Platform)</h3>
-  <p>An advanced software-as-a-service application built to orchestrate and automate esports tournament hosting, matchmaking workflows, and live player telemetry.</p>
+  <h3>⚔️ aetheriaarena.com (Esports Platform)</h3>
+  <p>Engineered core game logic systems and automated tournament management infrastructure designed for low-latency player telemetry and bracket execution. Integrated containerized Docker environments paired with Redis caching layers to drastically minimize system lag, deployed secure automated Paystack payment processing, and established automated CI/CD pipelines for continuous deployment.</p>
   <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
-  <img src="https://img.shields.io/badge/Backend-Python%20%2F%20Flask-3776ab?style=flat-square&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=flat-square&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Backend-Python-3776ab?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/Caching-Redis-dc382d?style=flat-square&logo=redis" alt="Redis">
   <img src="https://img.shields.io/badge/Infrastructure-Docker-2496ed?style=flat-square&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square" alt="Microservices">
+  <img src="https://img.shields.io/badge/Payments-Paystack-09a5db?style=flat-square" alt="Paystack">
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-blue?style=flat-square" alt="CI/CD">
 </blockquote>
 
 <blockquote>
-  <h3>🏫 Elewa Internship Ecosystem</h3>
-  <p>Contributed actively to troubleshooting, building, and fixing solutions across the platform's orchestration workflows, maintaining application stability and frontend performance.</p>
+  <h3>📦 Multi-Merchant Logistics & Fleet System</h3>
+  <p>Architected an end-to-end logistics infrastructure designed for multi-shop merchants. The system handles automated order dispatching, rider assignment, real-time telemetry tracking, inventory isolation per store, and streamlined merchant operations across parallel retail branches.</p>
   <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
-  <img src="https://img.shields.io/badge/Database-Firebase-ffca28?style=flat-square&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/Role-Orchestration%20%26%20Fixes-blueviolet?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/Styling-SCSS-cc6699?style=flat-square&logo=sass" alt="SCSS">
+  <img src="https://img.shields.io/badge/Backend-Python-3776ab?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/Infrastructure-Docker-2496ed?style=flat-square&logo=docker" alt="Docker">
 </blockquote>
 
 <blockquote>
-  <h3>🎨 Digital Artist Gallery Platform</h3>
-  <p>A specialized visual storefront web application built explicitly for digital and traditional artists to securely present, organize, and showcase their creative portfolios online.</p>
-  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
-  <img src="https://img.shields.io/badge/Scope-Portfolio%20Application-blue?style=flat-square" alt="Portfolio">
-</blockquote>
-
-<blockquote>
-  <h3>🍽️ Restaurant Task & Transaction Hub</h3>
-  <p>A full-stack point-of-sale restaurant application designed to automate day-to-day restaurant workflows, monitor administrative tasks, log transactions, and process secure live customer payments using an embedded M-Pesa API system.</p>
-  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
-  <img src="https://img.shields.io/badge/Backend-Python%20%2F%20Flask-3776ab?style=flat-square&logo=flask" alt="Flask">
-  <img src="https://img.shields.io/badge/Integration-M--Pesa%20API-green?style=flat-square" alt="M-Pesa">
-</blockquote>
-
-<blockquote>
-  <h3>📍 Geolocated Event Management System</h3>
-  <p>An enterprise-grade event-tracking engine where I am developing the core backend services. It implements dynamic geolocation for real-time map event discovery alongside isolated microservices dedicated to secure inside-app ticket purchases.</p>
-  <img src="https://img.shields.io/badge/Service-Backend%20Engineering-3776ab?style=flat-square" alt="Backend">
-  <img src="https://img.shields.io/badge/Feature-Geolocation%20%26%20Maps-brightgreen?style=flat-square" alt="Geolocation">
-  <img src="https://img.shields.io/badge/Architecture-Ticketing%20Microservices-orange?style=flat-square" alt="Microservices">
-</blockquote>
-
-<blockquote>
-  <h3>♟️ Next-Gen Chess Engine </h3>
-  <p>An interactive, modernized custom chess environment currently under active research and development, utilizing a decoupled architecture to manage game loops and move validations.</p>
-  <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
-  <img src="https://img.shields.io/badge/Backend-Python%20%2F%20Flask-3776ab?style=flat-square&logo=flask" alt="Flask">
-  <img src="https://img.shields.io/badge/Status-R%26D%20Phase-yellow?style=flat-square" alt="R&D">
+  <h3>♟️ AETHER AI</h3>
+  <p>An interactive, AI-driven engine designed to dynamically shape NPC behaviors, boss encounters, and narrative progression. Replaces pre-determined NPC placement and static routines with real-time, adaptive behavior loops to create emergent player experiences.</p>
+  <div>
+    <img src="https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular" alt="Angular">
+    <img src="https://img.shields.io/badge/Backend-Python-3776ab?style=flat-square&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/Status-R%26D%20Phase-yellow?style=flat-square" alt="R&D">
+  </div>
 </blockquote>
 
 ---
 
 ### 🚀 Technical Overview
-- 🌱 **Learning:** Deep-diving into strong static typing and functional architecture with **Haskell**.
-- 💬 **Ask me about:** Component-driven **Angular architecture**, reactive state management, high-concurrency backends, and containerized deployment pipelines.
+- 💬 **Ask me about:** Modular **Angular architecture**, high-concurrency microservices with **Python & Node.js**, low-latency tournament engine orchestration using **Redis**, **Docker containerization**, and automated **CI/CD pipelines**.
+
 - 📫 **Reach me:** [brianmurigi64@gmail.com](mailto:brianmurigi64@gmail.com)
+
 - 🤝 **Connect:** Let's build together on [LinkedIn](https://linkedin.com/in/brian-murigi-831473283).
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Current Tech Stack:
 <p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
 </p>
 
 ---
