@@ -2,7 +2,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/profile-7bfa2.appspot.com/o/Black%20Minimal%20.png?alt=media&token=84311752-1fe5-4cd1-a68e-71c5655b51a3" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Brian Murigi</h1>
+<h1 align="center">Hi 👋, I'm BMORI</h1>
 
 <p align="center">
   I am a full-stack software engineer obsessed with engineering resilient, low-latency platforms and robust distributed systems. I build systems built to scale, embracing complex engineering challenges as essential stepping stones toward the next architectural breakthrough.
